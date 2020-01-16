@@ -1,0 +1,4 @@
+Le rapport de ronde :
+
+    Les rapports de ronde prendront la forme de tableau récapitulatifs reprennant le parcours réalisé par l'agent de sécurité. Les informations récapitulés dans le tableau qui ont été collecté grâçe au tag MIFARE qui ce trouve sur un pointeau(lieux), néanmoins les erreurs de parcours seront notifiés dans le rapport. Les rapports seront composé du lieux, de la date/heure (jj/mm/aaaa - hh-mm) ainsi que des anomalies et incidents rencontré lors de la ronde. Par la suite dans le rapport les anomalies composé d'un commentaire et d'une photo seront regroupé et classé sous forme de vignette.
+Pour finir tous les rapports pourront être exportable au format PDF depuis l'application sur l'ordinateurs.
