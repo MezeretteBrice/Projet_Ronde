@@ -1,0 +1,37 @@
+Premiere revue de projet :
+
+-Répondre à la question "quoi ?"
+-Un diapo par personne ( 15-20 minutes )
+    -Présentation du contexte (plus ou moins faites dans le cahier des charges)
+        -Contexte et pourquoi le client en a besoin
+    -Bilan des entrées / sorties
+        -De quoi j'ai besoin et qu'est ce que le logiciel va sortir ?
+    -Présentation des tâches
+        -Se situer et expliquer le diagramme de cas d'utilisation
+        -Diagramme de séquence pour le déroulement des tâches
+    -IMPORTANT: Diagramme de Gantt
+        -Détaillé et personnalisé
+
+Deuxième revue de projet :
+
+-Répondre à la question "comment ?"
+        - Diagramme de cas d'utilisation
+        - Diagramme de séquence 
+        -Diagramme état-transition
+        -Diagramme de classe
+
+    -Choix des technologies
+        -Tables de BDD
+        -Outils choisis
+
+Troisième revue de projet :
+
+-Test d'une partie de notre tâche, un module
+
+Jury Final :
+
+-Présentation TOTAL du projet (20 minutes)
+-Mise en oeuvre de tout le système et un peu plus poussé notre partie (20 minutes)
+-Questions / réponses (20 minutes)
+
+
