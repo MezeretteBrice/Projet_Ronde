@@ -1,0 +1,6 @@
+Quesqu'un Tag mifare
+
+Un tag mifare utilise la technologie NFC qui signifie en anglais:  Near Field Communication (NFC) et en francais: communication en champ proche (CCP), est une technologie de communication sans fil à courte portée et à haute fréquence aussi. Permettant l'échange d'informations entre objets (periphériques), j'usqu'à une distance d'environ 10 cm.
+
+Un tag mifare sont des circuits intégrés très répandus pour leur utilisation dans le domaine des cartes à puce sans contact et pour plusieurs autres applications, dans le monde entier. La gamme MIFARE comprend des circuits intégrés permettant de réaliser des cartes sans contact mais aussi des lecteurs permettant de communiquer avec ces dernières.
+Durant notre projet nous allons utiliser un tag mifare comme un pointeau que le vigil utiliseras comme repere durant sa ronde, il en utiliseras un autre pour s'identifier. Le tag mifare nous serviras a avoir un numero de serie qui seras renseigner dans une BDD base de donnée pour chaque vigil et chaque lieux a vérifier.
