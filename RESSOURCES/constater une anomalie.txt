@@ -1,0 +1,7 @@
+Constater une anomalie
+
+Pre-condition -> Au moins un point d'acces a été scanner.
+
+Scénarion nominal -> L'agent appui sur le boutton anomalie et donc est envoyer sur une autre page de l'application et donc l'agent de sécuriter marque sont anomalie dans la zone texte. Cette anomalie est enregistrée dans la base de
+données, elle est associée au dernier pointeau scanné.
+
