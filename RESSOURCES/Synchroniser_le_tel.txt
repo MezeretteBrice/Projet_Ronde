@@ -1,0 +1,11 @@
+Synchroniser le smartphone d'un agent
+
+Pré-condition -> Attention alerte au gogole !!!  Le smartphone doit être recharger, et dans l'entreprise, connecter en usb ou en wifi, mis en NFC . Attention alerte au gogole !!!! 
+
+Scénarion nominal -> L'agent de securité allume le téléphone, se connecte en wifi et met sont téléphone en devellopeur pour avoir le NFC.
+			
+			Ensuite il lance l'application et s'identifie et lance une ronde. Ensuite les lieux sont inscrit sur un group box sous forme de liste qui represente les lieux a aller voir et deja vue qui seront visualiser qous forme de couleurs vert( lieux securiser) et rouge (lieux oublier). A la fin de chaque ronde l'agent de securité envoi sont rapport de sécuriter. L'ors d'une nouvelle ronde une nouveau rapport est créeet de nouveau lieux sont afficher si la ronde est différente.
+
+			Pour finir le responsable peut lire les rapports grâce a l'application sur le PC;
+
+Post-conditions -> Les anomalie et les données sont garder en mémoire sur le poste et n"évolue plus. 
