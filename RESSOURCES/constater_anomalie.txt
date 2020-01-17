@@ -1,0 +1,8 @@
+Constater une anomalie
+
+pre-condition -> scanner le pointeau actuelle pour constater une anomalie
+
+Scenarion nominal -> L’agent appui sur le bouton photo,l’agent prend en photo l’anomalie du
+pointeau ou peut quitter le mode appareil photo. Lorsque la
+photo est prise elle est associée au dernier point scanné. La
+photo est ensuite stockée dans le smartphone. Cette photo seras accompagné d'un commentaire obligatoire pour expliquer l'anomalie.
