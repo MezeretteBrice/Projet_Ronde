@@ -14,13 +14,12 @@ Page {
         y: 118
         width: 188
         height: 40
-        text: qsTr("erreur de parcours")
     }
 
     Button {
         id: buttonAnomalie
         x: 156
-        y: 250
+        y: 277
         width: 188
         height: 40
         text: qsTr("Anomalie")
@@ -42,86 +41,5 @@ Page {
         width: 136
         height: 565
         title: qsTr("Lieux à rejoindre")
-
-        Column {
-            id: column
-            width: 112
-            height: 400
-
-            Label {
-                id: label
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label1
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label2
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label3
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label4
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label5
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label6
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label7
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label8
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label9
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label10
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label11
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label12
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label13
-                text: qsTr("Label")
-            }
-
-            Label {
-                id: label14
-                text: qsTr("Label")
-            }
-        }
     }
 }

@@ -17,13 +17,6 @@ Page {
         font.pixelSize: 12
     }
 
-    TextField {
-        id: textFieldCommentaire
-        x: 139
-        y: 98
-        text: qsTr("")
-    }
-
     Text {
         id: element1
         x: 9
@@ -39,5 +32,22 @@ Page {
         width: 169
         height: 40
         text: qsTr("Button photo")
+    }
+
+    GroupBox {
+        id: groupBox
+        x: 88
+        y: 43
+        width: 251
+        height: 168
+        title: qsTr("")
+
+        TextArea {
+            id: textArea
+            x: -12
+            y: -12
+            width: 251
+            height: 168
+        }
     }
 }

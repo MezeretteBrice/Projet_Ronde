@@ -3,7 +3,7 @@ import QtQuick.Controls 2.5
 import QtQuick.Window 2.12
 
 Page {
-    width: 350
+    width: 400
     height: 400
     property alias roundButton: roundButton
 
@@ -13,8 +13,8 @@ Page {
         width: 84
         height: 24
         text: qsTr("Scanner un code NFC")
-        anchors.verticalCenterOffset: 128
-        anchors.horizontalCenterOffset: -30
+        anchors.verticalCenterOffset: 132
+        anchors.horizontalCenterOffset: -90
         font.pointSize: 20
         anchors.centerIn: parent
     }
@@ -22,8 +22,8 @@ Page {
     Image {
         id: image
         visible: true
-        x: 175
-        y: 70
+        x: 167
+        y: 71
         width: 150
         height: 205
         z: 1
@@ -40,8 +40,8 @@ Page {
     Image {
         id: image1
         visible: true
-        x: 63
-        y: 70
+        x: 55
+        y: 71
         width: 150
         height: 205
         rotation: -180
