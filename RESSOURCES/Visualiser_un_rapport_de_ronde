@@ -1,0 +1,7 @@
+Visualiser un rapport de ronde :
+
+pre-conditions -> Un agent de sécurité doit avoir fini une ronde, les données doivent être envoyées et enregistrés à la station d'accueil.
+
+Scénario nominal ->  Un responsable de sécurité séléctionne une ronde parmit celle disponible, il aura la possibiliter de l'afficher au format pdf ou de   l'imprimer sans passer par le format pdf.
+
+

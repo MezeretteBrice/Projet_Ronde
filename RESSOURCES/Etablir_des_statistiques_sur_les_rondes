@@ -1,0 +1,7 @@
+Etablir des statistiques sur les rondes :
+
+pre-conditions -> Un agent de sécurité doit avoir fini une ronde, les données doivent être envoyées et enregistrés à la station d'accueil.
+
+Scénario nominal -> Un responsable de sécurité pourra créé un ensemble de statistiques en fonction des rondes, des dates ou des agents. c'est statistiques permettront d'afficher le nombre de ronde effectuer sans et avec anomalies, un pourcentages d'anomalies et si les rondes ont été effectuer dans les temps.
+
+
