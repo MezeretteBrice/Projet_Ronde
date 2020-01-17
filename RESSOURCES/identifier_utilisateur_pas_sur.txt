@@ -1,0 +1,14 @@
+identifier utilisateur
+
+pre-conditions -> Doit etre rentrée dans la base de donnée et etre dans l'entreprise et avoir un tag mifare
+
+Scénarion normale -> Il se connecte grace au téléphone qui contient l'application.
+
+			Il est ensuite autoriser a choisir une ronde qui devras effectuer par la suite.
+			L'image pour s'identifer est une image de wifi.
+
+			Chaque fois qu'une personne veut s'indentifier pour faire une ronde il doit etre imperativement etre entre dans la BDD.
+
+			L'orsque l'utilisateur s'identifie il peut changer d'utilisateur ou même se deconnecter
+
+Post-condition -> Quand la êrsonne a chosiie une ronde il doit la finir avant de se deconnecter.
