@@ -1,0 +1,5 @@
+horodate
+
+pre-condition -> telephone a l'heure, et avoir deja scanner un pointeau
+
+Scenario nominal -> l'agent de securiter prend sont application sur sont telephone et scanne un tag mifare qui en le scannant lui donneras le numero de serie et en l'horodate celui-co. Ces informations sont enregistrer et envoyer sur la base de donnée
