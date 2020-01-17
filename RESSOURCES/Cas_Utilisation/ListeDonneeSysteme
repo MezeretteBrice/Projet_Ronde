@@ -1,0 +1,25 @@
+Ronde
+    -nom -> char(25)
+    -Pointeau -> 1 à ???
+        -nom -> char(30)
+        -lieu -> char(45)
+        -numero -> 0 à ???
+    -Temps min -> ???
+    -Temps max -> ???
+    -Horodatage (date et heure)
+
+Anomalie
+    -commentaire -> char(150)
+    -photo ?
+
+Agent
+    -badge
+        -Tag Mifare
+        -nom -> char(30)
+        -prenom -> char(30)
+        -status -> char(20)
+
+Responsable de sécurité
+    -login -> char(30)
+    -mot de passe -> char(45)
+    
