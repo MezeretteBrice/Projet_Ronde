@@ -1,0 +1,9 @@
+Réaliser une ronde
+
+pre condition -> Avoir un télephone utilisant la technologie NFC, et aussi avoir l'application installer sur le téléphone.
+
+Scénario nominal -> L'agent choisie sa ronde sur sont téléphone et realise sa ronde physiquement. Il valide chaque pointeau avec le telephone en scanant un tag mifare.
+
+			
+
+post-condition -> Les données sont enregistreret garder en memoire sur l'application sur le telephone.
