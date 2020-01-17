@@ -1,0 +1,12 @@
+Scanner un point de contrôle
+
+Pré-condition -> Une ronde est en cours de réalisation
+
+Scénarion nominal -> L’agent de sécurité scanne un point de contrôle, l’application le
+détecte et récupère son identifiant via le lecteur NFC du
+smartphone.
+			L’identifiant du point de contrôle est enregistré dans la base de
+données avec la ronde suivit de la date et de l’heure courante.
+			L’avancement dans la ronde est mis à jour
+
+Post-condition -> 
