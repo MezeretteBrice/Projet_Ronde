@@ -12,7 +12,7 @@ Page {
     ComboBox {
         id: comboBoxSelecRonde
         x: 55
-        y: 71
+        y: 179
         width: 240
         height: 68
         displayText: "Séléctionner une ronde"
@@ -26,7 +26,16 @@ Page {
         x: 55
         y: 304
         width: 240
-        height: 60
+        height: 68
         text: qsTr("Selectionner ronde")
+    }
+
+    Button {
+        id: buttonTelecharger
+        x: 55
+        y: 54
+        width: 240
+        height: 68
+        text: qsTr("Télécharger rondes")
     }
 }
