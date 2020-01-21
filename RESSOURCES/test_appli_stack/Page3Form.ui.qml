@@ -17,21 +17,13 @@ Page {
         font.pixelSize: 12
     }
 
-    Text {
-        id: element1
-        x: 9
-        y: 261
-        text: qsTr("Prendre photo de l'anomalie")
-        font.pixelSize: 12
-    }
-
     Button {
         id: buttonPhoto
-        x: 170
+        x: 9
         y: 249
-        width: 169
+        width: 330
         height: 40
-        text: qsTr("Button photo")
+        text: qsTr("Prendre une photo")
     }
 
     GroupBox {
@@ -49,5 +41,14 @@ Page {
             width: 251
             height: 168
         }
+    }
+
+    Button {
+        id: buttonPhoto1
+        x: 9
+        y: 339
+        width: 330
+        height: 40
+        text: qsTr("Valider l'anomalie")
     }
 }

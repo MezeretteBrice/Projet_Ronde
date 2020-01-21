@@ -4,14 +4,14 @@ import QtQuick.Layouts 1.3
 
 Page {
     width: 350
-    height: 600
+    height: 450
 
     title: qsTr("Page 2")
 
     Button {
         id: buttonAnomalie
         x: 151
-        y: 58
+        y: 38
         width: 188
         height: 40
         text: qsTr("Anomalie")
@@ -20,7 +20,7 @@ Page {
     Button {
         id: buttonFinRonde
         x: 151
-        y: 539
+        y: 374
         width: 188
         height: 40
         text: qsTr("Fin de ronde")
@@ -31,14 +31,14 @@ Page {
         x: 9
         y: 14
         width: 136
-        height: 565
+        height: 400
         title: qsTr("Lieux à rejoindre")
     }
 
     GroupBox {
         id: scannerPointeau
         x: 151
-        y: 167
+        y: 94
         width: 188
         height: 260
         title: qsTr("Scanner pointeau")
@@ -46,8 +46,8 @@ Page {
         Button {
             id: buttonScanner
             x: 14
-            y: 196
-            text: qsTr("Scanner un Pointeau")
+            y: 172
+            text: qsTr("Scanner un pointeau")
         }
 
         RoundButton {
@@ -65,7 +65,7 @@ Page {
             y: 147
             width: 79
             height: 20
-            text: qsTr("LieuxScanner")
+            text: qsTr("Lieux scanné")
         }
     }
 }

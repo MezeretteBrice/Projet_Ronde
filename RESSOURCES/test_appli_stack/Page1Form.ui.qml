@@ -36,6 +36,6 @@ Page {
         y: 54
         width: 240
         height: 68
-        text: qsTr("Télécharger rondes")
+        text: qsTr("Télécharger mes rondes")
     }
 }
