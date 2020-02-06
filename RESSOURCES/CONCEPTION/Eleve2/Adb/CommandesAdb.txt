@@ -1,0 +1,19 @@
+Vérifier l'existence d'adb sur l'ordinateur :
+	-Linux : Taper "abd" dans le terminal
+
+Lancer le serveur adb :
+	-Linux : adb start-server
+
+Afficher la liste des smartphones connectés en usb :
+	-Linux : adb devices
+
+Ouvrir un terminal venant du Smartphone :
+	-Linux : adb -s [Numero device] shell.
+
+Transférer un fichier VERS le téléphone :
+	-Linux : abd push [CheminDuFichierAvecNom][DestinationFichierSurTelephone]
+		Exemple : adb push test.txt /sdcard/test.txt
+		   OU 	  adb push /home/USERS/ELEVES/SNIR2018/mhureau/Images/Loop1.png /sdcard/Loop1.png
+
+Transférer un fichier A PARTIR du téléphone : 
+	-Linux : adb pull [CheminDuFichierSurTelephoneAvecNom][DestionationFichierSurOrdinateur]
