@@ -11,9 +11,12 @@ Ouvrir un terminal venant du Smartphone :
 	-Linux : adb -s [Numero device] shell.
 
 Transférer un fichier VERS le téléphone :
-	-Linux : abd push [CheminDuFichierAvecNom][DestinationFichierSurTelephone]
 		Exemple : adb push test.txt /sdcard/test.txt
 		   OU 	  adb push /home/USERS/ELEVES/SNIR2018/mhureau/Images/Loop1.png /sdcard/Loop1.png
 
+        Test : adb -s XSQ4C19409001982 push test.txt /sdcard/test.txt
+
 Transférer un fichier A PARTIR du téléphone : 
 	-Linux : adb pull [CheminDuFichierSurTelephoneAvecNom][DestionationFichierSurOrdinateur]
+
+        Test : adb -s XSQ4C19409001982 pull /sdcard/DCIM/Camera/voiturepapa.jpg /home/USERS/ELEVES/SNIR2018/mhureau/voiturepapa.jpg
