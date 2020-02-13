@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="projectcontroleurderonde" version="4">
+  <OBJECT>
+    <ID name="projectcontroleurderonde" mc="Standard.Package" uid="07ca31e7-4733-4584-b668-9c93a0918741"/>
+    <PID name="ProjectControleurDeRonde" mc="Standard.Project" uid="b9a9a773-f5d0-4bae-9049-21792288b32c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[projectcontroleurderonde]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="032e8abb-7df0-4cfa-9caa-5b9465bc8932"/>
+        <COMPID name="Interaction1" mc="Standard.Interaction" uid="69241914-76ad-4952-8341-a5759d40232d"/>
+        <COMPID name="Interaction2" mc="Standard.Interaction" uid="abe38314-f3db-4ba1-8a24-01a50f0648aa"/>
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="a1e52738-9bd4-431e-a1fd-b58e513255d0"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Responsable de sécurité" mc="Standard.Actor" uid="f966ee7d-71f4-4f6d-8083-62f2c7f8d3cb"/>
+        <COMPID name="StationAccueil" mc="Standard.Class" uid="ee812f6b-557b-4e0d-8bd5-b8e063ed0883"/>
+        <COMPID name="BDD" mc="Standard.Class" uid="9c905549-7d8c-4943-9597-49f081f641a0"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>

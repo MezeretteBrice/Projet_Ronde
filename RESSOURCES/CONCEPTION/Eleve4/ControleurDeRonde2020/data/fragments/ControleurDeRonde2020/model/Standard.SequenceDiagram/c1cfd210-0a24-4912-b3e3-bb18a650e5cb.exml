@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="identifier un agent de securiter" version="4">
+  <OBJECT>
+    <ID name="identifier un agent de securiter" mc="Standard.SequenceDiagram" uid="c1cfd210-0a24-4912-b3e3-bb18a650e5cb"/>
+    <PID name="Identifier un agent de securité" mc="Standard.Interaction" uid="f8f8c019-2af3-428b-8334-90356fa58651"/>
+    <ATTRIBUTES>
+      <ATT name="UiDataVersion">2</ATT>
+      <ATT name="UiData"><![CDATA[eJztU1FP2zAQ/iuW3+smbZlACkXQoAoRKGq3SXtCl/iamTl2ZzvQ/Ps5pGW0U6NMQvDCU5zP/u7uu/suOlsXkjyisUKrUxqygJKzcTRLHzBzRHAPUeKqFZ5SbXJWaI5SaMYF5AYKhlw4bZjF3yWqDBlKLFA5+4JsH06LxQaJG4SSAh60uX9JHdBxdGf0Co2riILCZ5RQ6dLF4MDffQdZ4qYUVUpJ++OovyX8Q124SiLdETJoE2Lr95Zl2iBruB3qm4DNgCPfJrtcuzkuO2a59SE2TIJrF6dXvsbnY324aZhkyNZ7QvuNpDbxBiU45L6Wvb7d1BB5rJG6RaA4GM72JkOyMFvyQRj0AhiMeqOTcNBLhzjspWl4DF+OAjzK0vbuS7DuWuknlUCKcq+IhTNC5XQsuHeKWAo0pFQEcv9HOBKLWWmEQxP1n1mtQrXEKzXRxUpb4fyYDqTqEGryU0husI6QCFu3d/M5yEiE+mW7P7/IYwNPvpwEKjS71hy27th2p3jDt0zWEfxK7QR8n336P9aHG1HwA46Ipyw5/3E5v784n1xP57Nvt/HbmKTDer4e218DvbLD6NMOH2WHr7O7t/bBwas/yDecpA==]]></ATT>
+      <ATT name="PreviewData"><![CDATA[data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVCAIAAAAmdTLBAAAAGElEQVR4nGP4TxlgGNU/qn9U/6j+EaofAB8cJiE1IQRUAAAAAElFTkSuQmCC]]></ATT>
+      <ATT name="Name"><![CDATA[identifier un agent de securiter]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="Descriptor">
+        <OBJECT>
+          <ID name="" mc="Infrastructure.Note" uid="0eb3de3b-8af0-41a3-9b49-466d07737a10"/>
+          <ATTRIBUTES>
+            <ATT name="Content"></ATT>
+            <ATT name="MimeType"><![CDATA[text/plain]]></ATT>
+            <ATT name="Name"></ATT>
+            <ATT name="status">1970354901745664</ATT>
+          </ATTRIBUTES>
+          <DEPENDENCIES>
+            <LINK relation="Model">
+              <FOREIGNID name="description" mc="Infrastructure.NoteType" uid="00000000-0000-3e81-0000-000000000000"/>
+            </LINK>
+          </DEPENDENCIES>
+        </OBJECT>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
