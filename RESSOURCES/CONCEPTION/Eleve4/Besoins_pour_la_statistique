@@ -1,0 +1,4 @@
+stats :
+-rondes en fonction de date(jj/mm/aaaa) : nb anomalie / nb erreur,incident(retard,rater(pointeau)) / effectuer par quel agent
+-dates : nb anomalie / nb erreur,incident(retard,rater(pointeau)) / agent / nb ronde effectuer
+-agent : nb anomalie / nb erreur,incident(retard,rater(pointeau)) / nb ronde avec date
