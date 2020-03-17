@@ -1,0 +1,46 @@
+<?xml version="1.0" ?>
+<!--GENERATED FILE, PLEASE DO NOT EDIT!!!--><EXT object="projectcontroleurderonde" version="4">
+  <OBJECT>
+    <ID name="projectcontroleurderonde" mc="Standard.Package" uid="07ca31e7-4733-4584-b668-9c93a0918741"/>
+    <PID name="ProjectControleurDeRonde" mc="Standard.Project" uid="b9a9a773-f5d0-4bae-9049-21792288b32c"/>
+    <ATTRIBUTES>
+      <ATT name="IsInstantiable">false</ATT>
+      <ATT name="IsAbstract">false</ATT>
+      <ATT name="IsLeaf">false</ATT>
+      <ATT name="IsRoot">false</ATT>
+      <ATT name="Visibility">Public</ATT>
+      <ATT name="Name"><![CDATA[projectcontroleurderonde]]></ATT>
+      <ATT name="status">1970354901745664</ATT>
+    </ATTRIBUTES>
+    <DEPENDENCIES>
+      <COMP relation="OwnedBehavior">
+        <COMPID name="Interaction" mc="Standard.Interaction" uid="032e8abb-7df0-4cfa-9caa-5b9465bc8932"/>
+        <COMPID name="Interaction1" mc="Standard.Interaction" uid="69241914-76ad-4952-8341-a5759d40232d"/>
+        <COMPID name="Interaction2" mc="Standard.Interaction" uid="abe38314-f3db-4ba1-8a24-01a50f0648aa"/>
+        <COMPID name="State Machine" mc="Standard.StateMachine" uid="a1e52738-9bd4-431e-a1fd-b58e513255d0"/>
+      </COMP>
+      <COMP relation="OwnedElement">
+        <COMPID name="Responsable de sécurité" mc="Standard.Actor" uid="f966ee7d-71f4-4f6d-8083-62f2c7f8d3cb"/>
+        <COMPID name="SupervisionRondier" mc="Standard.Class" uid="ee812f6b-557b-4e0d-8bd5-b8e063ed0883"/>
+        <COMPID name="QPainter" mc="Standard.Class" uid="787ef024-b5eb-4ed3-9f16-ab0c58c7bfb3"/>
+        <COMPID name="QPrinter" mc="Standard.Class" uid="ed249ec7-c949-4b3a-8425-335eac5cc2c4"/>
+        <COMPID name="QFileDialog" mc="Standard.Class" uid="3ea26f2a-9827-45d8-8ebc-5d4a74f7799d"/>
+        <COMPID name="QTextDocument" mc="Standard.Class" uid="135387a3-aec9-48f0-8a71-351998d34eac"/>
+        <COMPID name="AccesMysql" mc="Standard.Class" uid="c831bc4f-636a-485e-87a7-55d828cf9ece"/>
+        <COMPID name="Rapport" mc="Standard.Class" uid="64c9c36b-6bd3-4d5f-b66c-422accc941aa"/>
+        <COMPID name="IHMIdentification" mc="Standard.Class" uid="ff2f331d-ef1c-465d-b9ac-833073c728b5"/>
+        <COMPID name="IHMRapport" mc="Standard.Class" uid="aecb49a0-0f4f-42ed-87e9-624da8063c4b"/>
+        <COMPID name="IHMAssociation" mc="Standard.Class" uid="009250d2-7358-4fd7-8a0c-8292e199c426"/>
+        <COMPID name="IHMStatistiques" mc="Standard.Class" uid="8aba6584-563f-48b7-8e34-5f252ff6cda2"/>
+        <COMPID name="AccesMySql" mc="Standard.Class" uid="0a4d0d11-a639-4ee7-a3f8-1430c6aee10d"/>
+        <COMPID name="QSqlDataBase" mc="Standard.Class" uid="62255baa-a57a-40b5-bdc3-ea79f3bf7b8d"/>
+        <COMPID name="QSqlQuery" mc="Standard.Class" uid="550ee2ef-b9c1-4f70-8533-394d357b8107"/>
+        <COMPID name="QList" mc="Standard.Class" uid="abc608ff-47e1-4086-8897-29227f2c5455"/>
+        <COMPID name="IHMRapport" mc="Standard.Class" uid="83a31214-943c-444e-83fe-03e46a3b791c"/>
+      </COMP>
+      <COMP relation="Product">
+        <COMPID name="projectcontroleurderonde Class diagram" mc="Standard.ClassDiagram" uid="95e79864-b1ba-471b-aeb5-a157000805e1"/>
+      </COMP>
+    </DEPENDENCIES>
+  </OBJECT>
+</EXT>
