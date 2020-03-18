@@ -1,0 +1,42 @@
+IHM explication -> jsp qui 
+
+2.3.3.1 refaire description
+
+p 22 a revoir diagramme sequence jeremi
+
+p 23 revoior description gerer les pointeaux
+
+p 24 mettre a jour diagramme de sequence en condition
+
+Antoine p26 interface concret il faut
+
+Antoine p28 revoir diagramme de seqeunce
+
+Antoine p29 verbe s'authentifier ( ne fait pas partie du cas d'utilisdaton ) -> creer un petit carré 
+
+Mathis p32 ( Dans le description on ne parle pas de l’échange smartphone → station d’accueil.
+
+La flèche Recevoir… est dans le mauvais sens ce n’est pas la transmission des données qui est représenté. ) description du prof pour ton diagramme de séquence)
+
+P43 mettre photo identification page appli brice
+
+Mathis p44 (il n’y a pas la récupération et l’affichage des rondes que peut faire l’agent.)  pour diagramme de sequence
+
+Mathis p44 du sossier du prof faut que tu regarde ta plein de truc a changer dans notre dossier p 46
+
+P45 -> mettre la taille de chaque intituler pour chaque données et les id... on se doit pas le mettre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
